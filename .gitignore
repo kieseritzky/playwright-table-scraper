@@ -1,0 +1,12 @@
+# Ignore python environment files
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Ignore scraped data outputs
+scraped_books.csv
+
+# Ignore local system configs and environments
+.env
+.DS_Store
