@@ -11,12 +11,16 @@ An automated data extraction script built with Python and Playwright to programm
 ## 🚀 Setup & Execution Instructions
 
 1. Clone or download this repository to your local system.
-2. Install the necessary dependencies and browser binaries:
-   ```bash
+2. Create and activate a clean virtual environment.
+   ```cmd
+   python -m venv venv
+   .\venv\Scripts\activate
+4. Install the necessary dependencies and browser binaries:
+   ```cmd
    pip install -r requirements.txt
    playwright install
    ```
-3. Run the automation script:
-   ```bash
+5. Run the automation script:
+   ```cmd
    python main.py
    ```
