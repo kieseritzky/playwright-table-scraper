@@ -9,6 +9,7 @@ A collection of Playwright Python examples covering browser automation and web s
 ✅ Radio Buttons & Checkboxes
 ✅ Links
 ✅ Data Tables
+✅ Modal Windows
 ⬜ Forms
 ⬜ Dropdowns
 ⬜ File Upload
